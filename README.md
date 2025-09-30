@@ -1,2 +1,1 @@
-# OCR-Agent
-OCR-Agent: Agentic OCR with Capability and Memory Reflection
+# OCR-Agent: Agentic OCR with Capability and Memory Reflection
