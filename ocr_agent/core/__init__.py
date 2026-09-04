@@ -1,0 +1,1 @@
+"""Core OCR reasoning pipeline."""
